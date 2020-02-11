@@ -1,0 +1,9 @@
+.links.text-light a {
+    color: inherit;
+    transition: color .2s;
+}
+
+.links.text-light a:hover {
+    color: rgba(255, 255, 255, .8);
+}
+
